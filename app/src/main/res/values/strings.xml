@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstMaterialDesign</string>
+
+    <string name="nav_drawerMenu1">Navigation1</string>
+    <string name="nav_drawerMenu2">Navigation2</string>
+    <string name="nav_drawerMenu3">Navigation3</string>
+</resources>
